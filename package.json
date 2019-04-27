@@ -1,0 +1,25 @@
+{
+  "name": "multilang-alphanumeric",
+  "version": "1.0.0",
+  "description": "It helps validate string for alphanumeric with multilanguage support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davakh/multilang-alphanumeric.git"
+  },
+  "keywords": [
+    "multilang",
+    "alphanumeric",
+    "lang",
+    "test-alphanumeric"
+  ],
+  "author": "davakh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davakh/multilang-alphanumeric/issues"
+  },
+  "homepage": "https://github.com/davakh/multilang-alphanumeric#readme"
+}
